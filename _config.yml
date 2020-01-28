@@ -30,7 +30,7 @@ github_username:  cecilia-yin
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-bootstrap
+theme: minima
 plugins:
   - jekyll-feed
 
